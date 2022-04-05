@@ -3,7 +3,8 @@ More Syntax Themes For Lite XL, Extends [Lite-Xl Plugins](https://github.com/lit
 
 ---
 
-- [GD Script](https://raw.githubusercontent.com/DEVLOPRR/lite-xl-syntaxes/main/syntax/language_gdscript.lua)
+- [GD Script (`*.gd`)](https://raw.githubusercontent.com/DEVLOPRR/lite-xl-syntaxes/main/syntax/language_gdscript.lua)
+- [Go Mod (`go.mod`)](https://raw.githubusercontent.com/DEVLOPRR/lite-xl-syntaxes/main/syntax/language_gomod.lua)
 
 More Coming Soon...
 
