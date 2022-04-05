@@ -1,5 +1,5 @@
 # Lite XL Syntaxes
-More Syntaxes For Lite-XL, Extends [Lite-Xl Plugins](https://github.com/lite-xl/lite-xl-plugins)
+More Syntax Themes For Lite XL, Extends [Lite-Xl Plugins](https://github.com/lite-xl/lite-xl-plugins)
 
 ---
 
