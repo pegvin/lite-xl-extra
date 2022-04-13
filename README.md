@@ -1,4 +1,4 @@
-# Lite XL Syntaxes
+# Lite XL Extra
 More Syntax Themes For Lite XL, Extends [Lite-Xl Plugins](https://github.com/lite-xl/lite-xl-plugins)
 
 ---
